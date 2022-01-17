@@ -42,7 +42,7 @@ html, body {
 
 .brand-logo {
 	position: fixed;
-	top: 50px;
+	top: 40px;
 	width: 50%;
 	display: flex;
 	justify-content: center;
@@ -109,7 +109,7 @@ ion-icon {
 
 .social-media {
 	position: fixed;
-	bottom: 50px;
+	bottom: 40px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
